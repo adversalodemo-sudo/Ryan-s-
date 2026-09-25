@@ -1,0 +1,6 @@
+{
+  "name": "FlexiStock",
+  "description": "An editable inventory manager with customizable column visibility, styles, font sizes, locking, local CSV/Excel/PDF importing/exporting, and cloud synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
